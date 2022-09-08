@@ -1,4 +1,4 @@
-# POST-and-GET-from-database
+# POST-and-GET-from-Database
 Read the temperature and humidity sensor values and sending them to MYSQL database
 
  Read the temperature and humidity values and send them to the MYSQL database, then we will get data from the database and display the values to a website
@@ -30,3 +30,5 @@ Read the temperature and humidity sensor values and sending them to MYSQL databa
 ![dht_data](https://user-images.githubusercontent.com/90250848/189142914-7bfb5ebc-af13-49fe-aa2d-ab5c8d5f56da.jpg)
 
 8. the website should GET these data from the database and display it (display last added row) as shown below
+
+![Capture](https://user-images.githubusercontent.com/90250848/189145629-08c7822a-3ad7-4d14-98d0-a74d3973a5ea.PNG)
