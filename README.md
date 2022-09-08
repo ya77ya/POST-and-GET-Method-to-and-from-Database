@@ -1,5 +1,5 @@
 # POST-and-GET-from-Database
-Read the temperature and humidity sensor values and sending them to MYSQL database
+Read the DHT11 temperature and humidity sensor values using ESP32 Arduino and sending them to MYSQL database then, display the values to a website
 
  Read the temperature and humidity values and send them to the MYSQL database, then we will get data from the database and display the values to a website
  
